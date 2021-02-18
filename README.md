@@ -1,1 +1,3 @@
-# [NIMS] Industrial Mathematics Academy - Counting Dandelion Flower Population
+# [NIMS] Industrial Mathematics Academy - Counting Dandelion
+---
+
