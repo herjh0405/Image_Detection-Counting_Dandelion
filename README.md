@@ -1,1 +1,1 @@
-# Image_Detection-Counting_Dandelion
+# [NIMS] Industrial Mathematics Academy - Counting Dandelion Flower Population
