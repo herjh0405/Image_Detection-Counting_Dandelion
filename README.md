@@ -30,7 +30,7 @@
 ## 결과 비교
 
 <div class="imgCollage"> 
- <span style="width: 45%"> <[Faster_Rcnn] padding=5 width=480 max-width=40% height = 350 align="left"/> </span> 
+ <span style="width: 45%; align: left;"> <[Faster_Rcnn] padding=5 width=480 max-width=40% height = 350 align="left"/> </span> 
  <span style="width: 45%"> <[Resinanet] padding=5 width=480 max-width=40% height = 350 align="right"/> </span> 
 </div>
 <div class="imgCollage"> 
