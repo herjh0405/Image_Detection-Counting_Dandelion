@@ -32,9 +32,9 @@
 
 <div class="imgCollage"> 
 
- <span style="width: 450"> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png"  max-width=40% height = 350/> </span> 
+ <span style="width: 300"> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png"  max-width=40% height = 350/> </span> 
  <p style='width: 50'> VS </p>        
- <span style="width: 450"> <img src = "https://user-images.githubusercontent.com/54921730/109374207-f0aba200-78f6-11eb-914e-1c1ba4c6a88e.png" max-width=40% height = 350/> </span> 
+ <span style="width: 300"> <img src = "https://user-images.githubusercontent.com/54921730/109374207-f0aba200-78f6-11eb-914e-1c1ba4c6a88e.png" max-width=40% height = 350/> </span> 
 </div>
 
 
