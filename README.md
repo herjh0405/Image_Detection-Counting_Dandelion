@@ -14,11 +14,15 @@
 
 **[개발 환경]**
 > * 파이썬 : Python 3.7.10
-> * 파이썬 라이브러리 : 
+> * 파이썬 라이브러리
 >   * torch 1.7.1+cu101
 >   * detectron2 0.3
+>   * opencv 4.1.2
 
 **[데이터 출처]**
-> * 환경빅데이터플랫폼 [link](https://www.bigdata-environment.kr/user/data_market/list.do)
+> * NIMS 제공 [data](https://github.com/herjh0405/Image_Detection-Counting_Dandelion/blob/master/dandelion.zip)
+>  * 4-5월 한 달간 일정한 시간대에 같은 각도로 촬영한 민들레 꽃 데이터
+> * 라벨링 사이트 [link](http://www.robots.ox.ac.uk/~vgg/software/via/via.html)
+>  * Bounding Box : 직사각형
 
 ---
