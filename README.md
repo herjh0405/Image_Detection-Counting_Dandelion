@@ -30,8 +30,8 @@
 ## 결과 비교
 
 <div class="imgCollage"> 
- <a style='align : left;'> faster-rcnn </a> 
- <a style='align : left;'> Resinanet </a>
+ <a style='align : left; width : 300;'> [Faster-rcnn] </a> 
+ <a style='align : left;'> [Resinanet] </a>
 </div>
 <div class="imgCollage"> 
  <span> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" padding=5 width=480 max-width=40% height = 350 align="left"/> </span> 
