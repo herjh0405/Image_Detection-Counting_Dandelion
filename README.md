@@ -28,6 +28,8 @@
 
 ---
 ## 결과 비교
+* 왼쪽 사진이 Faster_rcnn_R_101_FPN_3x, 오른쪽 사진이 Retinanet_R_101_FPN_3x의 결과이다.
+  * LR=0.0025, Max_Iter=500, BATCH_SIZE=128 조건하에 시행하였고 Faster_rcnn이 더 좋은 효과를 보임
 
 <div class="imgCollage"> 
  <span> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" padding=5 width=485 max-width=40% height = 350 align="left"/> </span> 
