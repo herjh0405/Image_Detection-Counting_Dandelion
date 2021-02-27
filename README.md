@@ -4,7 +4,8 @@
 
 국가수리과학 연구소 산업수학 아카데미 (2020/11/05 - 2020/11/08)
 * 딥러닝을 이용하여 개화한 민들레 꽃의 갯수를 세는 프로그램 구축
-  *  Detectron2의 faster_rcnn, retinanet 두 가지 모델 비교
+  * 라벨링부터 모델 구현까지 모든 프로세스를 스스로
+  * Detectron2의 faster_rcnn, retinanet 두 가지 모델 비교
 
 ---
 ## 개발 환경
@@ -21,8 +22,8 @@
 
 **[데이터 출처]**
 > * NIMS 제공 [data](https://github.com/herjh0405/Image_Detection-Counting_Dandelion/blob/master/dandelion.zip)
->  * 4-5월 한 달간 일정한 시간대에 같은 각도로 촬영한 민들레 꽃 데이터
+>   * 4-5월 한 달간 일정한 시간대에 같은 각도로 촬영한 민들레 꽃 데이터
 > * 라벨링 사이트 [link](http://www.robots.ox.ac.uk/~vgg/software/via/via.html)
->  * Bounding Box : 직사각형
+>   * Bounding Box : 직사각형
 
 ---
