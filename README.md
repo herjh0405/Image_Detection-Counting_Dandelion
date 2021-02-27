@@ -32,7 +32,7 @@
 
 <div class="imgCollage"> 
  <span style="width: 40%"> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" width = 450 max-width=40% height = 350/> </span> 
- <span> **VS** </span>        
+ <span style="height: auto"> VS </span>        
  <span style="width: 40%"> <img src = "https://user-images.githubusercontent.com/54921730/109374207-f0aba200-78f6-11eb-914e-1c1ba4c6a88e.png" width = 450 max-width=40% height = 350/> </span> 
 </div>
 
