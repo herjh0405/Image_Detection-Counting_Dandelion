@@ -33,7 +33,7 @@
 
 <div class="imgCollage"> 
  <span> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" width=auto max-width=100% height = 350/> </span> 
- <span> <img src = "https://user-images.githubusercontent.com/54921730/109374207-f0aba200-78f6-11eb-914e-1c1ba4c6a88e.png" width=auto max-width=100% height = 350/> </span> 
+ <span> <img src = "https://user-images.githubusercontent.com/54921730/109375334-4e43ec80-78ff-11eb-93e3-34d3993fcaf6.png" width=auto max-width=100% height = 350/> </span> 
 </div>
 
 ---
