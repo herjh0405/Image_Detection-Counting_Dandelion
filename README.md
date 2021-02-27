@@ -29,4 +29,4 @@
 ---
 ## 결과 비교
 
-<img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" width = 500 max-width = 45% height = auto/>
+<img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" max-width = 45% height = auto/>
