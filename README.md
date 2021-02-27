@@ -28,7 +28,7 @@
 
 ---
 ## 결과 비교
-* Faster_Rcnn Resinanet
+* Faster_Rcnn                     * Resinanet
 
 <div class="imgCollage"> 
 
