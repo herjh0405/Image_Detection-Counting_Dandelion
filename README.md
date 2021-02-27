@@ -32,8 +32,8 @@
   * LR=0.0025, Max_Iter=500, BATCH_SIZE=128 조건하에 시행하였고 Faster_rcnn이 더 좋은 효과를 보임
 
 <div class="imgCollage"> 
- <span> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" width=485 max-width=40% height = 350 align="left"/> </span> 
- <span> <img src = "https://user-images.githubusercontent.com/54921730/109374207-f0aba200-78f6-11eb-914e-1c1ba4c6a88e.png" width=485 max-width=40% height = 350 align="right"/> </span> 
+ <span> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" width=485 max-width=40% height = 350/> </span> 
+ <span> <img src = "https://user-images.githubusercontent.com/54921730/109374207-f0aba200-78f6-11eb-914e-1c1ba4c6a88e.png" width=485 max-width=40% height = 350/> </span> 
 </div>
 
 ---
