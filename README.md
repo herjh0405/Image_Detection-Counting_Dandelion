@@ -31,6 +31,7 @@
 
 <div class="imgCollage"> 
  <p>My mother has <span style="color:blue">blue</span> eyes.</p>
+ <span style="font-family: Open Sans; font-weight: 300; font-size: 16px; font-style: normal">300 Light normal hamburgefonstiv</span>
  <span> <text = 'faster-rcnn' padding=5 width=480 max-width=40% height = 350 align="left"/> </span> 
  <p> [Resinanet] </p> 
 </div>
