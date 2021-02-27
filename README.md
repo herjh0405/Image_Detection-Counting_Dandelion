@@ -30,8 +30,8 @@
 ## 결과 비교
 
 <div class="imgCollage"> 
- <span style="width: 45%; align: left;"> [Faster_Rcnn] </span> 
- <span style="width: 45%; align: right;"> [Resinanet] </span> 
+ <p> [Faster_Rcnn] </p> 
+ <p> [Resinanet] </p> 
 </div>
 <div class="imgCollage"> 
  <span> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" padding=5 width=480 max-width=40% height = 350 align="left"/> </span> 
