@@ -32,8 +32,8 @@
   * LR=0.0025, Max_Iter=500, BATCH_SIZE=128 조건하에 시행하였고 Faster_rcnn이 더 좋은 효과를 보임
 
 <div class="imgCollage"> 
- <span> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" width=485 max-width=40% height = 350/> </span> 
- <span> <img src = "https://user-images.githubusercontent.com/54921730/109374207-f0aba200-78f6-11eb-914e-1c1ba4c6a88e.png" width=485 max-width=40% height = 350/> </span> 
+ <span> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" width=500 max-width=45% height = 350/> </span> 
+ <span> <img src = "https://user-images.githubusercontent.com/54921730/109374207-f0aba200-78f6-11eb-914e-1c1ba4c6a88e.png" width=500 max-width=45% height = 350/> </span> 
 </div>
 
 ---
@@ -42,7 +42,7 @@
 
 * 새로운 사진이 주어졌을 때 민들레 꽃을 높은 확률로 Detection해냄을 알 수 있다.
 
-<img src = "https://user-images.githubusercontent.com/54921730/109375209-518aa880-78fe-11eb-87b2-70f6a2200122.png" width = 1000 height = auto/>
+<img src = "https://user-images.githubusercontent.com/54921730/109375209-518aa880-78fe-11eb-87b2-70f6a2200122.png" width = 1000 max-width=100% height = auto/>
 
 
 
