@@ -29,6 +29,8 @@
 ---
 ## 결과 비교
 
+
+```html
 <div class="imgCollage"> 
  <p>My mother has <span style="color:blue">blue</span> eyes.</p>
  <span style="font-family: Open Sans; font-weight: 300; font-size: 16px; font-style: normal">300 Light normal hamburgefonstiv</span>
@@ -39,6 +41,11 @@
  <span> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" padding=5 width=480 max-width=40% height = 350 align="left"/> </span> 
  <span> <img src = "https://user-images.githubusercontent.com/54921730/109374207-f0aba200-78f6-11eb-914e-1c1ba4c6a88e.png" padding=5 width=480 max-width=40% height = 350 align="right"/> </span> 
 </div>
+
+
+
+```
+
 
 
 
