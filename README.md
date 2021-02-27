@@ -31,6 +31,37 @@
 * Faster_Rcnn Resinanet
 
 <div class="imgCollage"> 
+ 
+ <html lang="ko">
+	<head>
+		<meta charset="utf-8">
+		<title>CSS</title>
+		<style>
+			.jb-wrap {
+				width: 40%;
+				margin: 10px auto;
+				border: 1px solid #000000;
+			}
+			.jb-wrap img {
+				width: 100%;
+				vertical-align: middle;
+			}
+			.jb-text {
+				padding: 5px 10px;
+				background-color: yellow;
+				text-align: center;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="jb-wrap">
+			<div class="jb-image"><img src="https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" alt=""></div>
+			<div class="jb-text">
+				<p>Faster_Rcnn</p>
+			</div>
+		</div>
+	</body>
+</html>
  <span style="width: 40%"> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" width = 450 max-width=40% height = 350/> </span> 
  <span style="display: inline-blockl height:20px; width:100px;"> VS </span>        
  <span style="width: 40%"> <img src = "https://user-images.githubusercontent.com/54921730/109374207-f0aba200-78f6-11eb-914e-1c1ba4c6a88e.png" width = 450 max-width=40% height = 350/> </span> 
