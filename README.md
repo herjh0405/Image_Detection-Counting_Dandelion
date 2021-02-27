@@ -31,8 +31,8 @@
 * Faster_Rcnn Resinanet
 
 <div class="imgCollage"> 
- <span style="width: 48.8%"> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" height = auto/> </span> 
- <span style="width: 48.8%"> <img src = "https://user-images.githubusercontent.com/54921730/109374033-d45b3580-78f5-11eb-8305-ae791d5f2983.png" height = auto/> </span> 
+ <span style="width: 45%"> <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" height = auto/> </span> 
+ <span style="width: 45%"> <img src = "https://user-images.githubusercontent.com/54921730/109374033-d45b3580-78f5-11eb-8305-ae791d5f2983.png" height = auto/> </span> 
 </div>
 
 
