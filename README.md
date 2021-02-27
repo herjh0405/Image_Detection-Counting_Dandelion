@@ -29,12 +29,8 @@
 ---
 ## 결과 비교
 
-
-```css
 <div class="imgCollage"> 
- <p>My mother has <span style="color:blue">blue</span> eyes.</p>
- <span style="font-family: Open Sans; font-weight: 300; font-size: 16px; font-style: normal">300 Light normal hamburgefonstiv</span>
- <span> <text = 'faster-rcnn' padding=5 width=480 max-width=40% height = 350 align="left"/> </span> 
+ <a> faster-rcnn </a> 
  <p> [Resinanet] </p> 
 </div>
 <div class="imgCollage"> 
@@ -42,9 +38,6 @@
  <span> <img src = "https://user-images.githubusercontent.com/54921730/109374207-f0aba200-78f6-11eb-914e-1c1ba4c6a88e.png" padding=5 width=480 max-width=40% height = 350 align="right"/> </span> 
 </div>
 
-
-
-```
 
 
 
