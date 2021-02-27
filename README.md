@@ -31,6 +31,7 @@
 
 <div class="imgCollage"> 
  <a style='align : left; width : 300;'> [Faster-rcnn] </a> 
+ <a> </a>
  <a style='align : left;'> [Resinanet] </a>
 </div>
 <div class="imgCollage"> 
