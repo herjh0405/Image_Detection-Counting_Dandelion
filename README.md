@@ -4,7 +4,7 @@
 
 국가수리과학 연구소 산업수학 아카데미 (2020/11/05 - 2020/11/08)
 * 딥러닝을 이용하여 개화한 민들레 꽃의 갯수를 세는 프로그램 구축
-  * 라벨링부터 모델 구현까지 모든 프로세스를 스스로
+  * 라벨링부터 모델 구현까지 작업
   * Detectron2의 faster_rcnn, retinanet 두 가지 모델 비교
 
 ---
@@ -27,3 +27,6 @@
 >   * Bounding Box : 직사각형
 
 ---
+## 결과 비교
+
+<img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" width = 500 max-width = 45% height = auto/>
