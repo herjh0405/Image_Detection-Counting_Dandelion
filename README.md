@@ -30,7 +30,7 @@
 ## 결과 비교
 
 <div class="imgCollage"> 
- <a> faster-rcnn </a> 
+ <a style='align : left;'> faster-rcnn </a> 
  <p> [Resinanet] </p> 
 </div>
 <div class="imgCollage"> 
