@@ -30,7 +30,7 @@
 ## 결과 비교
 
 
-```html
+```css
 <div class="imgCollage"> 
  <p>My mother has <span style="color:blue">blue</span> eyes.</p>
  <span style="font-family: Open Sans; font-weight: 300; font-size: 16px; font-style: normal">300 Light normal hamburgefonstiv</span>
