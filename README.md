@@ -36,7 +36,9 @@
  <span> <img src = "https://user-images.githubusercontent.com/54921730/109374207-f0aba200-78f6-11eb-914e-1c1ba4c6a88e.png" padding=5 width=485 max-width=40% height = 350 align="right"/> </span> 
 </div>
 
+## 결과 시각화 
 
+<img src = "https://user-images.githubusercontent.com/54921730/109375209-518aa880-78fe-11eb-87b2-70f6a2200122.png" width = 1000 height = auto/>
 
 
 
