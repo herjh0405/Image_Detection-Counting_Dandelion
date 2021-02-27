@@ -30,7 +30,7 @@
 ## 결과 비교
 
 <div class="imgCollage"> 
- <p> [Faster_Rcnn] </p> 
+ <span> <text = 'faster-rcnn' padding=5 width=480 max-width=40% height = 350 align="left"/> </span> 
  <p> [Resinanet] </p> 
 </div>
 <div class="imgCollage"> 
