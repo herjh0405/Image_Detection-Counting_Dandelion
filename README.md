@@ -28,5 +28,8 @@
 
 ---
 ## 결과 비교
-
+* Faster_Rcnn
 <img src = "https://user-images.githubusercontent.com/54921730/109373991-82b2ab00-78f5-11eb-836f-3a1e6220a117.png" max-width = 45% height = auto/>
+
+* Resinanet
+<img src = "https://user-images.githubusercontent.com/54921730/109374033-d45b3580-78f5-11eb-8305-ae791d5f2983.png" max-width = 45% height = auto/>
